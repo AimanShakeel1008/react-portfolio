@@ -1,84 +1,91 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Aiman Shakeel",
+    "occupation": "Software Engineer/Developer",
+    "description": "Working as a Java Developer by Day, wannabe Full Stack Javascript Developer by Night",
+    "image": "Aiman_Profile.jpg",
+    "bio": "My name is Aiman. I am a passionate developer/coder with a strong educational background in Computer Science & Engineering. Currently I am working as a developer in a top MNC of India. I have a work experience of more than 3 years in IT Industry. I have worked on multiple projects including a large scale web application based on Java and SQL. Apart from working on the associated organization's project, I am on a learning journey of Full Stack Javascript Development. As part of this journey, currently I am working on some of my own projects based on NodeJS, React, Firebase, MongoDb, webpack etc. As Data Science and Artificial Intelligenc also fascinates me, I would love to work on these technologies in near future.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "aimanshakeel1008@gmail.com",
+    "phone": "+91 7390810180 | +91 9140271152",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "504/54, Tagore Marg",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zip": "226020"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/aimankhaaaan/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/aimanshakeel",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/aimanshakeel/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/AimanShakeel1008",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Currently I am working as a Fullstack Java Developer. This experience as a Java Developer has provided the proficient level skill of Java Ecosystem as well as it has given a great insight about the Software Development Lifecycle. Now I am looking for a career transition to Javascript development. As part of this transition I am learning React and NodeJS along with some other technologies of Javascript Ecosystem.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Integral University, Lucknow",
+        "degree": "Bachelor of Technology in Computer Science & Enginnering",
+        "graduated": "May 2016"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Tata Consultancy Services",
+        "title": "Team Member && Java Developer",
+        "years": "January 2017 - Present",
+        "description": "Development and Maintenance of a large scale Java based web application."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Samsung R&D",
+        "title": "Intern",
+        "years": "April 2016 - October 2016",
+        "description": "Part of the team which developed 4G Network Monitoring Tools for a Major 4G Service Provider of India"
       }
     ],
     "skills": [
       {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
       },
       {
         "name": "HTML5",
@@ -86,52 +93,46 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "A static mobile First website",
+        "category": "Created this project as a part of a Udemy Course.(HTML5, CSS, Javascript)",
+        "image": "clear-view-escapes.jpg",
+        "url": "https://unruffled-panini-0cf4f5.netlify.app"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Social Media Application",
+        "category": "A Social Media web application created using NodeJS with Express as backend framework and MongoDB database.",
+        "image": "our-app.jpg",
+        "url": "https://aimandevsocial.herokuapp.com/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Smart Brain- Face Detection Application",
+        "category": "A React application which uses the ClariFai API to detect the face in a picture.",
+        "image": "smart-brain.jpg",
+        "url": "https://smart-brain-by-aiman.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "CRWN Clothing|E-Commerce",
+        "category": "A React based E-Commerce Application (React,Firebse)- In Progress",
+        "image": "crwn-clothing.PNG",
+        "url": "https://crwn-aiman-live.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text": "One hell of a Developer!",
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Hire Aiman and you'll not regret.",
         "user": "Steve Wozniak... impersonator"
       }
     ]
